@@ -1,4 +1,6 @@
 # Go Cryptography
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fcrypto.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fcrypto?ref=badge_shield)
+
 
 This repository holds supplementary Go cryptography libraries.
 
@@ -19,3 +21,7 @@ subject line, so it is easy to find.
 Note that contributions to the cryptography package receive additional scrutiny
 due to their sensitive nature. Patches may take longer than normal to receive
 feedback.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fcrypto.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fcrypto?ref=badge_large)
